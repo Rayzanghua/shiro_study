@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>shiro-example-chapter2</module>
+  	<module>shiro-example-chapter3</module>
   </modules>
 </project>
