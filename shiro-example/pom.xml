@@ -11,5 +11,7 @@
   	<module>shiro-example-chapter5</module>
   	<module>shiro-example-chapter7</module>
   	<module>shiro-example-chapter8</module>
+  	<module>shiro-example-chapter10</module>
+  	<module>shiro-example-chapter16</module>
   </modules>
 </project>
